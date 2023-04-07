@@ -1,0 +1,4 @@
+uname -a
+ls
+./hw1 1000
+dfd
